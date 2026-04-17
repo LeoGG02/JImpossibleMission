@@ -5,7 +5,7 @@
 # ENGLISH
 Repository of the project for Programming Methodologies (Sapienza University of Rome) **JImpossibleMission** assigned in the academic year 2024-2025.
 
-**JImpossibleMission** is a Java recreation of the original Commodore 64 2D platform game **Impossible Mission** by Dennis Caswell.
+**JImpossibleMission** is a light recreation in Java of the original Commodore 64 2D platform game **Impossible Mission** by Dennis Caswell.
 The game features a secret agent (controlled by the player) exploring the underground fortress of a criminal mastermind with the goal of collecting the complete password and gaining access to his control room where the criminal is hiding, all while avoiding his robot guards and within a time limit.
 
 ![Image1 preview](preview/preview3.png)
@@ -88,7 +88,7 @@ In case you're not using Eclipse, you just have to set the project/compiler to J
 # ITALIANO
 Repository del progetto di Metodologie di Programmazione (Sapienza Roma) **JImpossibleMission** assegnato nell'anno 2024-2025.
 
-**JImpossibleMission** è una ricreazione in Java del gioco originale platform a 2D del Commodore 64 **Impossible Mission** di Dennis Caswell.
+**JImpossibleMission** è una lieve ricreazione in Java del gioco originale platform a 2D del Commodore 64 **Impossible Mission** di Dennis Caswell.
 Il gioco segue un agente segreto (controllato dal giocatore) che esplora la fortezza sotterranea di un genio criminale con lo scopo di ricavare la password completa e avere accesso alla sua stanza di controllo dove il criminale si nasconde, il tutto evitando i suoi robot di guardia ed entro un tempo limite.
 
 ![Image1 preview](preview/preview3.png)
