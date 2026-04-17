@@ -39,7 +39,7 @@ The project aims to apply the knowledge learned in classes, such as the principl
 - **Observable/Observer**: This pattern is primarily used by *Observables*, which send the notification, and *Observers*, which receive the notification and, depending on its type, perform the requested action.
 - **Strategy**: Used for interchangeable algorithms such as the KeyListener (between the Play and Result states) and the behaviors of the Robot enemy.
 - **Simple Factory**: Simple classes with static methods used for creating objects (such as Swing components and game entities).
-- **Singleton**: Creates a single, centralized instance of a class, like the classes that manage the sprites and the audio.
+- **Singleton**: Creates a single and centralized instance of a class, like the classes that manage the sprites and the audio.
 
 # Keyboard Input
 **During the Game**
