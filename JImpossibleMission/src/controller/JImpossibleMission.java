@@ -10,7 +10,6 @@ import view.Window;
  */
 public class JImpossibleMission {
 
-	System.setProperty("sun.java2d.uiScale", "1");
 	/**
 	 * main to start the game JImpossibleMission
 	 * 
