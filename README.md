@@ -63,16 +63,10 @@ The project aims to apply the knowledge learned in classes, such as the principl
 - Java 17
 - Eclipse (used for this project) or any Java IDE
 
-**Steps**
-- Clone the [repository](https://github.com/LeoGG02/JImpossibleMission.git) or download the repository as file '.zip'.
+**Steps (Eclipse)**
+- Clone the [repository](https://github.com/LeoGG02/JImpossibleMission.git) or download the repository as file '.zip' and extract.
 - Import the project into your IDE.
-- *(Optional - prevents UI scaling issues)* Go to 'Run Configuration...' -> 'Arguments' -> in 'VM arguments' set '-Dsun.java2d.uiScale=1'.
 - Go to the 'JImpossibleMission' class in 'controller' package and run the program.
-
-**In case of UI bug**
-- Go to 'Run Configuration...'.
-- 'Arguments'.
-- in 'VM arguments' set '-Dsun.java2d.uiScale=1'.
 
 **In case of 'java.lang.UnsupportedClassVersionError' (only Eclipse solution)**
 - Right click on the 'JImpossibleMission' project
@@ -82,7 +76,14 @@ The project aims to apply the knowledge learned in classes, such as the principl
 - ✓ Use compliance from execution enviroment 'JavaSE-17' on 'Java Build Path'
 - Apply and Close
 
-In case you're not using Eclipse, you just have to set the project/compiler to Java 17 in your IDE.
+In case you're usig other IDE, you just have to set the project/compiler to Java 17.
+
+**Steps (Terminal)**
+- Download the repository as file '.zip' and extract.
+- Open the Terminal.
+- Set the directory of 'JImpossibleMission' with inside the 'src' folder (example cd 'C:/User/user/Download/JImpossibleMission').
+- Compile by executing 'javac -d out -cp "resources" --source-path src src/controller/JImpossibleMission.java'.
+- Run 'java -cp "out;resources" controller.JImpossibleMission'.
 
 ---
 # ITALIANO
@@ -144,20 +145,26 @@ Il progetto ha lo scopo didattico di applicare le conoscenze imparate alle lezio
 # Come avviare il gioco
 **Requisiti**
 - Java 17
-- Eclipse (utilizzata per questo progetto) o un qualsiasi Java IDE
+- Eclipse (utilizzata per questo progetto) o un qualsiasi Java IDE (opzionali).
 
-**Step**
-- Clona il [repository](https://github.com/LeoGG02/JImpossibleMission.git) o scarica il repository in formato '.zip'.
+**Step (Eclipse)**
+- Clona il [repository](https://github.com/LeoGG02/JImpossibleMission.git) o scarica il repository in formato '.zip' ed estrailo.
 - Importa il progetto nel tuo IDE.
-- *(Opzionale - previene problemi di ridimensionamento dell'UI)* Vai su 'Run Configuration...' -> 'Arguments' -> in 'VM arguments' inserisci '-Dsun.java2d.uiScale=1'.
 - Vai sulla classe 'JImpossibleMission' nel package 'controller' e avvia il programma.
 
 **In caso di 'java.lang.UnsupportedClassVersionError' (soluzione solo per Eclipse)**
-- Right click on the 'JImpossibleMission' project
-- Properties
-- Java Compiler
-- ✓ Enable project specific settings
-- ✓ Use compliance from execution enviroment 'JavaSE-17' on 'Java Build Path'
-- Apply and Close
+- Tasto destro al progetto 'JImpossibleMission'.
+- 'Properties'.
+- 'Java Compiler'.
+- ✓ 'Enable project specific settings'.
+- ✓ 'Use compliance from execution enviroment 'JavaSE-17' on 'Java Build Path''.
+- 'Apply and Close'.
 
-In caso se non utilizzassi Eclipse, devi solo impostare il progetto/compilatore a Java 17 nel tuo IDE.
+In caso se non utilizzassi altri IDE, devi solo impostare il progetto/compilatore a Java 17.
+
+**Step (Terminale)**
+- Scarica il repository come file '.zip' ed estrailo.
+- Apri il Terminale.
+- Imposta la directory di 'JImpossibleMission' con all'interno la cartella 'src' (esempio: 'cd C:/User/user/Download/JImpossibleMission').
+- Compila eseguendo 'javac -d out -cp "resources" --source-path src src/controller/JImpossibleMission.java'.
+- Esegui 'java -cp "out;resources" controller.JImpossibleMission'.
