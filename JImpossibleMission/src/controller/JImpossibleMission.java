@@ -9,7 +9,11 @@ import view.Window;
  * @author Leo Clen Galutera Gadian (2087727)
  */
 public class JImpossibleMission {
-	
+
+	/**
+	 * Force scale
+	 */
+	System.setProperty("sun.java2d.uiScale", "1");
 	/**
 	 * main to start the game JImpossibleMission
 	 * 
