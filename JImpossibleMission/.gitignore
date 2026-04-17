@@ -1,5 +1,2 @@
-bin/
-out/
-.settings/
-.idea/
-*.class
+/bin/
+/.idea/
