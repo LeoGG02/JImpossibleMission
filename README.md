@@ -60,8 +60,8 @@ The project aims to apply the knowledge learned in classes, such as the principl
 
 # How to run
 **Requirements**
-- Java 17
-- Eclipse (used for this project) or any Java IDE
+- Java 17.
+- Eclipse (used for this project) or any Java IDE (optional).
 
 **Steps (Eclipse)**
 - Clone the [repository](https://github.com/LeoGG02/JImpossibleMission.git) or download the repository as file '.zip' and extract.
@@ -69,14 +69,14 @@ The project aims to apply the knowledge learned in classes, such as the principl
 - Go to the 'JImpossibleMission' class in 'controller' package and run the program.
 
 **In case of 'java.lang.UnsupportedClassVersionError' (only Eclipse solution)**
-- Right click on the 'JImpossibleMission' project
-- Properties
-- Java Compiler
-- ✓ Enable project specific settings
-- ✓ Use compliance from execution enviroment 'JavaSE-17' on 'Java Build Path'
-- Apply and Close
+- Right click on the 'JImpossibleMission' project.
+- 'Properties'.
+- 'Java Compiler'.
+- ✓ 'Enable project specific settings'.
+- ✓ 'Use compliance from execution enviroment 'JavaSE-17' on 'Java Build Path''.
+- 'Apply and Close'.
 
-In case you're usig other IDE, you just have to set the project/compiler to Java 17.
+In case you're using other IDE, you just have to set the project/compiler to Java 17.
 
 **Steps (Terminal)**
 - Download the repository as file '.zip' and extract.
