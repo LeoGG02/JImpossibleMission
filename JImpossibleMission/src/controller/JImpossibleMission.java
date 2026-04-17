@@ -18,6 +18,7 @@ public class JImpossibleMission {
 	public static void main(String[] args) {
 		// Force scale
 		System.setProperty("sun.java2d.uiScale", "1");
+		// Set controller with model and view
 		new Controller(new Game(), new Window());
 	}
 
