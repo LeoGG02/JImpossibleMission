@@ -64,7 +64,7 @@ The project aims to apply the knowledge learned in classes, such as the principl
 - Eclipse (used for this project) or any Java IDE
 
 **Steps**
-- Clone the [repository](https://github.com/LeoGG02/JImpossibleMission.git).
+- Clone the [repository](https://github.com/LeoGG02/JImpossibleMission.git) or download the repository as file '.zip'.
 - Import the project into your IDE.
 - *(Optional - prevents UI scaling issues)* Go to 'Run Configuration...' -> 'Arguments' -> in 'VM arguments' set '-Dsun.java2d.uiScale=1'.
 - Go to the 'JImpossibleMission' class in 'controller' package and run the program.
@@ -147,7 +147,7 @@ Il progetto ha lo scopo didattico di applicare le conoscenze imparate alle lezio
 - Eclipse (utilizzata per questo progetto) o un qualsiasi Java IDE
 
 **Step**
-- Clona il [repository](https://github.com/LeoGG02/JImpossibleMission.git).
+- Clona il [repository](https://github.com/LeoGG02/JImpossibleMission.git) o scarica il repository in formato '.zip'.
 - Importa il progetto nel tuo IDE.
 - *(Opzionale - previene problemi di ridimensionamento dell'UI)* Vai su 'Run Configuration...' -> 'Arguments' -> in 'VM arguments' inserisci '-Dsun.java2d.uiScale=1'.
 - Vai sulla classe 'JImpossibleMission' nel package 'controller' e avvia il programma.
