@@ -10,9 +10,6 @@ import view.Window;
  */
 public class JImpossibleMission {
 
-	/**
-	 * Force scale
-	 */
 	System.setProperty("sun.java2d.uiScale", "1");
 	/**
 	 * main to start the game JImpossibleMission
@@ -20,6 +17,8 @@ public class JImpossibleMission {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Force scale
+		System.setProperty("sun.java2d.uiScale", "1");
 		new Controller(new Game(), new Window());
 	}
 
