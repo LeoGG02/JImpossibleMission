@@ -5,8 +5,6 @@ import view.Window;
 
 /**
  * JIMPOSSIBLE MISSION
- * 
- * @author Leo Clen Galutera Gadian (2087727)
  */
 public class JImpossibleMission {
 
